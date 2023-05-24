@@ -1,6 +1,6 @@
 class p1
 {
-	public static class main(String cp[])
+	public static void main(String args[])
 	{
 		System.out.print("Hello");
 	}
